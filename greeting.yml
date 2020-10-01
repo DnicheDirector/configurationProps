@@ -1,1 +1,2 @@
-greeting: Hello everyone! 
+greeting: 
+  message: Hello everyone! 
