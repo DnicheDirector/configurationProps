@@ -1,3 +1,8 @@
+spring:
+  data:
+    mongobd:
+      password: '{cipher}fd82777e9e364625905f0a6ca85e76f73aa91cec4f93d4b95fea7d4ca09e6ba4e3d5c7e50d73758eac7ab369767f32ba'
+
 server:
   port: 0
 
